@@ -27,6 +27,32 @@
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
    - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb)
 
+
+===============================================
+
+## :nerd_face: Machine Learning Excercise Room:
+1. 💬 한강의 수위예측 경진대회 baseline 적용 (In progress) * Colab에서 실행  
+<table align="center"> <td> 
+    <a target="_blank" href="https://colab.research.google.com/drive/17mZyW6Fx74ZDI39rj1q1th7HUy1YOv4f#scrollTo=hk22ySzap35F>">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Open in Colab</a>
+  </td> </table>
+
+
+## 
+2. 💬 LSTM을 이용해서 댐 하류의 수위를 단기 예측하기 (In progress) * Colab에서 실행
+<table align="center"> <td>
+    <a target="_blank" href="https://colab.research.google.com/drive/1vtNLAOk66_xA_TeHLDw1uAw7P4eBWV84#scrollTo=Yjh-zGjv08bN)">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Open in Colab</a>
+  </td> </table>
+
+
+## 
+
+3. 💬 Web-App 활용 연습하기 (외부조건에 따른 상태 분류기 테스트)
+     - Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://newcave-pipe-winter-app-46fdwb.streamlitapp.com)
+
+
+
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
 - K-water 연구소 AILab 김성훈 센터장 (sunghoonkim@kwater.or.kr)
 - K-water 연구소 AILab 최영돈 책임연구원 (choiyd1115@kwater.or.kr)
