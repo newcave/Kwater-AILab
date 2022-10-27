@@ -32,6 +32,7 @@
 1.
 2.
 3. 수도 동파 
+Launch Web App [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit... 김저호 )
 
 ------------
 
