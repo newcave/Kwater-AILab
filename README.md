@@ -27,6 +27,16 @@
    - (주제) 온라인 저장소, 클라우드기반 jupyterHub와 모델 APIs를 활용한 수자원모델링의 재현성 개선 (최영돈) [발표자료](https://github.com/Kwater-AILab/2022_KWRA_Conference_Reproducibility/blob/main/20220520_%EC%88%98%EC%9E%90%EC%9B%90%ED%95%99%ED%9A%8C_%EB%B0%9C%ED%91%9C(%EC%B5%9C%EC%98%81%EB%8F%88).pdf)
    - Launch Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/2022_KWRA_Conference_Reproducibility/main?filepath=SummaModel_ReynoldsAspennStand_StomatalResistance_Figure7.ipynb)
 
+## :nerd_face: AI-Web-app exercise!
+
+1.
+2.
+3. 수도 동파 
+
+------------
+
+
+
 문의사항: K-water AILab에 문의사항이 있으시면 언제든지 아래의 이메일을 이용해주세요.
 - K-water 연구소 AILab 김성훈 센터장 (sunghoonkim@kwater.or.kr)
 - K-water 연구소 AILab 최영돈 책임연구원 (choiyd1115@kwater.or.kr)
